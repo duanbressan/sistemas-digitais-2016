@@ -1,8 +1,8 @@
-# sistemas_digitais_2016
+# sistemas-digitais-2016
 
 ## Repositório destinado ao envio dos trabalhos da aula de Sistemas Digitais
 
-Todos os trabalhos realizados na matéria foram feitos com um colega de classe:
+Todos os trabalhos realizados na matéria foram feitos com um colega de classe
 
 PROFESSOR: [Emilio Wuerges](https://github.com/wuerges)
 
