@@ -2,17 +2,21 @@
 
 ## Repositório destinado ao envio dos trabalhos da aula de Sistemas Digitais
 
-Todos os trabalhos realizados na matéria foram feitos com o
-Maurício Catanio [GITHUB](https://github.com/Catanio)
+Todos os trabalhos realizados na matéria foram feitos com um colega de classe:
+
+PROFESSOR: [Emilio Wuerges](https://github.com/wuerges)
+
+COLEGA: [Maurício Catanio](https://github.com/Catanio)
+ 
 
 ### [Trabalho 1](https://github.com/duanbressan/sistemas_digitais_2016/tree/master/Trabalho%201)
-Introdução ao Verilog, pisca luzes.
+* Introdução ao Verilog, pisca luzes.
 
 ### [Trabalho 2](https://github.com/duanbressan/sistemas_digitais_2016/tree/master/Trabalho%202)
-Piscar luzes de maneira visível em verilog.
+* Piscar luzes de maneira visível em verilog.
 
 ### [Trabalho 3](https://github.com/duanbressan/sistemas_digitais_2016/tree/master/Trabalho%203)
-Como checar se um ponto está no triângulo, implementado em c.
+* Como checar se um ponto está no triângulo, implementado em c.
 
 ### [Trabalho 4 e 5](https://github.com/duanbressan/sistemas_digitais_2016/tree/master/Trabalho%204%20e%205)
 * Trabalho 4 Como checar se um ponto está no triângulo, implementado em verilog.
